@@ -1,2 +1,0 @@
-# SmallTest
-For learning git
